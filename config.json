@@ -54,13 +54,8 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl":[
-        {
-            "name": "SSL Learning Portal",
-            "url": "http://learningportal.simplyserveltd.co.uk"
-        }
-    ],
-    "multisitesdisplay": "",
+    "siteurl": "http://learningportal.simplyserveltd.co.uk",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https://www.simplyserveltd.co.uk/privacy-policy/"
