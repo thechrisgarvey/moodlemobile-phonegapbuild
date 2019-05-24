@@ -55,7 +55,7 @@
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://learningportal.simplyserveltd.co.uk",
-    "multisitesdisplay": "false",
+    "multisitesdisplay": "no",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https://www.simplyserveltd.co.uk/privacy-policy/"
